@@ -1,0 +1,11 @@
+# Declare files that will always have LF line endings on checkout.
+*.cmd text eol=crlf
+*.cs text eol=lf
+*.java text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+.gitignore eol=lf
+.dockerignore eol=lf
+Dockerfile eol=lf

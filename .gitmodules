@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/Core"]
+	path = Assets/Scripts/Core
+	url = https://github.com/NerdBoyCamp/Hathor-Core.git
